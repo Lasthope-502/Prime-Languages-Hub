@@ -24,8 +24,6 @@ specialized/niche language.
 - [Core Concepts](#core-concepts)
 - [Adding a New Language](#adding-a-new-language)
 - [Project Structure](#project-structure)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
 
 ---
 
