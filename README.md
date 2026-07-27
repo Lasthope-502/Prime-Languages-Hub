@@ -175,15 +175,15 @@ prime-hub stop
 
 ## CLI Reference
 
-| Command	Description |
-|---|---|---|
-| prime-hub stats |	| Show registry statistics (tiers, categories) |
-| prime-hub list [--tier N] [--category X] [--search Y] |	| List/filter the 659 languages |
-| prime-hub info <language_id> |	| Show details about one language |
-| prime-hub start |	| Start the hub daemon + all configured engines |
-| prime-hub status |	| Show health of all connected languages |
-| prime-hub call <source> <target> <function> --args '<json>' |	| Execute a cross-language call |
-| prime-hub stop |
+**Command	Description**
+
+- prime-hub stats 	 Show registry statistics (tiers, categories)
+- prime-hub list [--tier N] [--category X] [--search Y] 	 List/filter the 659 languages
+- prime-hub info <language_id> 	 Show details about one language 
+- prime-hub start 	 Start the hub daemon + all configured engines 
+- prime-hub status 	 Show health of all connected languages
+- prime-hub call <source> <target> <function> --args '<json>' 	 Execute a cross-language call 
+- prime-hub stop 
 
 ---
 
