@@ -1,0 +1,23 @@
+{
+  "languages": [
+    {"id": "v_lang", "name": "V Language (Vlang)", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "v8_ignition_bytecode", "name": "V8 Ignition Bytecode", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "vala", "name": "Vala", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "vale", "name": "Vale", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "vampire_tptp", "name": "Vampire (TPTP)", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "vault_policy", "name": "Vault Policy", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "vba", "name": "VBA", "category": "scripting", "tier": 2, "status": "active"},
+    {"id": "vbscript", "name": "VBScript", "category": "scripting", "tier": 4, "status": "legacy"},
+    {"id": "vdm_sl", "name": "VDM-SL", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "verilog_ams", "name": "Verilog-AMS", "category": "hardware_description", "tier": 4, "status": "active"},
+    {"id": "vhdl_verilog", "name": "VHDL / Verilog", "category": "hardware_description", "tier": 2, "status": "active"},
+    {"id": "vhdl_ams", "name": "VHDL-AMS", "category": "hardware_description", "tier": 4, "status": "active"},
+    {"id": "vb_dotnet", "name": "Visual Basic .NET", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "vb6", "name": "Visual Basic 6 (VB6)", "category": "general_purpose", "tier": 4, "status": "legacy"},
+    {"id": "vjass", "name": "vJASS", "category": "scripting", "tier": 4, "status": "niche"},
+    {"id": "voiceflow_diagram", "name": "Voiceflow Diagram Logic", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "vue_template", "name": "Vue Template Syntax", "category": "web_frontend", "tier": 1, "status": "active"},
+    {"id": "vyper", "name": "Vyper", "category": "blockchain", "tier": 3, "status": "active"},
+    {"id": "vyxal", "name": "Vyxal", "category": "esoteric", "tier": 4, "status": "joke"}
+  ]
+}

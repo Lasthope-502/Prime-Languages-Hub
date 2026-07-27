@@ -1,0 +1,14 @@
+{
+  "languages": [
+    {"id": "z_notation", "name": "Z notation", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "z_machine_bytecode", "name": "Z-Machine Bytecode", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "z3_prover", "name": "Z3 Theorem Prover", "category": "theorem_prover", "tier": 3, "status": "active"},
+    {"id": "z80_assembly", "name": "Z80 Assembly", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "zetalisp", "name": "ZetaLisp", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "zig", "name": "Zig", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "zokrates", "name": "ZoKrates", "category": "blockchain", "tier": 4, "status": "active"},
+    {"id": "zscript_gzdoom", "name": "ZScript", "category": "scripting", "tier": 4, "status": "niche"},
+    {"id": "zsh", "name": "Zsh", "category": "scripting", "tier": 2, "status": "active"},
+    {"id": "05ab1e", "name": "05AB1E", "category": "esoteric", "tier": 4, "status": "joke"}
+  ]
+}

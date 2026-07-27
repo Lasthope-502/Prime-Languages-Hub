@@ -1,0 +1,13 @@
+{
+  "languages": [
+    {"id": "k_language", "name": "K Language", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "kitten", "name": "Kitten", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "kml", "name": "KML", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "koka", "name": "Koka", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "kornshell", "name": "KornShell (ksh)", "category": "scripting", "tier": 3, "status": "active"},
+    {"id": "kotlin", "name": "Kotlin", "category": "jvm_based", "tier": 1, "status": "active"},
+    {"id": "kql", "name": "KQL", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "ksonnet", "name": "Ksonnet", "category": "config_data_format", "tier": 4, "status": "legacy"},
+    {"id": "kubernetes_yaml", "name": "Kubernetes YAML", "category": "config_data_format", "tier": 1, "status": "active"}
+  ]
+}

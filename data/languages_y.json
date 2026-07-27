@@ -1,0 +1,10 @@
+{
+  "languages": [
+    {"id": "yacc", "name": "Yacc", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "yaml", "name": "YAML", "category": "config_data_format", "tier": 1, "status": "active"},
+    {"id": "yara", "name": "YARA", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "yasm_syntax", "name": "Yasm Syntax", "category": "assembly", "tier": 4, "status": "active"},
+    {"id": "yices", "name": "Yices", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "yul", "name": "Yul", "category": "blockchain", "tier": 3, "status": "active"}
+  ]
+}

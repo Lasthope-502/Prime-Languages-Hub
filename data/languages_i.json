@@ -1,0 +1,21 @@
+{
+  "languages": [
+    {"id": "icon", "name": "Icon", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "idapython", "name": "IDAPython", "category": "scripting", "tier": 3, "status": "active"},
+    {"id": "idl", "name": "IDL", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "idris", "name": "Idris", "category": "theorem_prover", "tier": 4, "status": "active"},
+    {"id": "il_plc", "name": "IL", "category": "hardware_description", "tier": 4, "status": "active"},
+    {"id": "influxql", "name": "InfluxQL", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "informix_4gl", "name": "Informix 4GL", "category": "general_purpose", "tier": 4, "status": "legacy"},
+    {"id": "inko", "name": "Inko", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "instaparse", "name": "Instaparse", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "instructor_schema", "name": "Instructor Schema DSL", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "intercal", "name": "INTERCAL", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "interlisp", "name": "Interlisp", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "iota", "name": "Iota", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "ipl", "name": "IPL", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "iptables", "name": "Iptables", "category": "config_data_format", "tier": 2, "status": "active"},
+    {"id": "isabelle", "name": "Isabelle", "category": "theorem_prover", "tier": 3, "status": "active"},
+    {"id": "ispc", "name": "ISPC", "category": "general_purpose", "tier": 4, "status": "niche"}
+  ]
+}

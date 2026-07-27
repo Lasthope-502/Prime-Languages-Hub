@@ -1,0 +1,24 @@
+{
+  "languages": [
+    {"id": "oberon", "name": "Oberon", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "object_pascal_delphi", "name": "Object Pascal (Delphi)", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "object_rexx", "name": "Object Rexx", "category": "scripting", "tier": 4, "status": "legacy"},
+    {"id": "objective_c", "name": "Objective-C", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "ocaml", "name": "OCaml", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "occam", "name": "Occam", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "occam_pi", "name": "Occam-pi", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "ocean_sdk_dsl", "name": "Ocean SDK DSL", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "octave", "name": "Octave", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "odin", "name": "Odin", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "oisc", "name": "OISC", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "ook", "name": "Ook!", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "openai_function_spec", "name": "OpenAI Function Spec Schema", "category": "config_data_format", "tier": 2, "status": "active"},
+    {"id": "opencl", "name": "OpenCL", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "opencl_spir", "name": "OpenCL SPIR", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "openqasm", "name": "OpenQASM", "category": "quantum", "tier": 3, "status": "active"},
+    {"id": "openscad", "name": "OpenSCAD", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "openvpn_config", "name": "OpenVPN Config Syntax", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "org_mode", "name": "Org-mode", "category": "markup_doc", "tier": 3, "status": "active"},
+    {"id": "outlines", "name": "Outlines", "category": "config_data_format", "tier": 3, "status": "active"}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "languages": [
+    {"id": "n1ql", "name": "N1QL", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "nasm_macro", "name": "Nasm Macro DSL", "category": "assembly", "tier": 3, "status": "active"},
+    {"id": "neo4j_cypher", "name": "Neo4j Cypher", "category": "database_query", "tier": 2, "status": "active"},
+    {"id": "nes_assembly", "name": "NES Assembly (6502)", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "nesl", "name": "NESL", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "neuroml", "name": "NeuroML", "category": "config_data_format", "tier": 4, "status": "niche"},
+    {"id": "nftables", "name": "Nftables", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "nginx_config", "name": "Nginx Configuration Script", "category": "config_data_format", "tier": 1, "status": "active"},
+    {"id": "nim", "name": "Nim", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "nimscript", "name": "Nimscript", "category": "scripting", "tier": 4, "status": "active"},
+    {"id": "ninja_build", "name": "Ninja Build", "category": "ci_cd_config", "tier": 3, "status": "active"},
+    {"id": "nix", "name": "Nix", "category": "ci_cd_config", "tier": 3, "status": "active"},
+    {"id": "nmap_nse", "name": "Nmap Scripting Engine (NSE)", "category": "scripting", "tier": 3, "status": "active"},
+    {"id": "nodejs", "name": "Node.js", "category": "general_purpose", "tier": 1, "status": "active"},
+    {"id": "noir", "name": "Noir", "category": "blockchain", "tier": 3, "status": "active"},
+    {"id": "nom", "name": "Nom", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "nomad_job_spec", "name": "Nomad Job Specification", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "npm_package_json", "name": "npm package.json", "category": "config_data_format", "tier": 2, "status": "active"},
+    {"id": "nuprl", "name": "NuPRL", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "nvidia_ptx", "name": "NVIDIA PTX", "category": "assembly", "tier": 3, "status": "active"},
+    {"id": "nwscript", "name": "NWScript", "category": "scripting", "tier": 4, "status": "niche"}
+  ]
+}

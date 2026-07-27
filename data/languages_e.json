@@ -1,0 +1,22 @@
+{
+  "languages": [
+    {"id": "e_prover", "name": "E Prover", "category": "theorem_prover", "tier": 4, "status": "active"},
+    {"id": "ebnf", "name": "EBNF", "category": "markup_doc", "tier": 4, "status": "active"},
+    {"id": "ebpf", "name": "eBPF", "category": "assembly", "tier": 2, "status": "active"},
+    {"id": "edgeql", "name": "EdgeQL", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "eff", "name": "Eff", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "eiffel", "name": "Eiffel", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "elf_lang", "name": "Elf", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "elixir", "name": "Elixir", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "elm", "name": "Elm", "category": "web_frontend", "tier": 3, "status": "active"},
+    {"id": "embedded_c", "name": "Embedded C", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "envoy_config", "name": "Envoy Configuration YAML", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "epics", "name": "EPICS", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "eqasm", "name": "eQASM", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "ergoscript", "name": "ErgoScript", "category": "blockchain", "tier": 4, "status": "active"},
+    {"id": "erlang", "name": "Erlang", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "euclid", "name": "Euclid", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "evm_bytecode", "name": "EVM Bytecode", "category": "blockchain", "tier": 2, "status": "active"},
+    {"id": "expect", "name": "Expect", "category": "scripting", "tier": 3, "status": "active"}
+  ]
+}

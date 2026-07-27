@@ -1,0 +1,19 @@
+{
+  "languages": [
+    {"id": "q_language", "name": "Q Language", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "qsharp", "name": "Q# (Q-Sharp)", "category": "quantum", "tier": 3, "status": "active"},
+    {"id": "q_spoot", "name": "Q-SPOOT", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "qbasic", "name": "QBasic", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "qbrick", "name": "QBRICK", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "qcl", "name": "QCL", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "qiskit", "name": "Qiskit", "category": "quantum", "tier": 3, "status": "active"},
+    {"id": "qlanguage", "name": "QLanguage", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "qmasm", "name": "QMASM", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "qml", "name": "QML", "category": "web_frontend", "tier": 3, "status": "active"},
+    {"id": "qpl", "name": "QPL", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "quantum_guard_dsl", "name": "Quantum Guard DSL", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "quickbasic", "name": "QuickBASIC", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "quil", "name": "QuIL", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "quipper", "name": "Quipper", "category": "quantum", "tier": 4, "status": "niche"}
+  ]
+}

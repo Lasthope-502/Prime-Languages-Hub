@@ -1,0 +1,25 @@
+{
+  "languages": [
+    {"id": "j_language", "name": "J Language", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "jags", "name": "JAGS", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "janet", "name": "Janet", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "jass", "name": "JASS", "category": "scripting", "tier": 4, "status": "niche"},
+    {"id": "java", "name": "Java", "category": "jvm_based", "tier": 1, "status": "active"},
+    {"id": "javafx", "name": "JavaFX", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "javascript", "name": "JavaScript", "category": "web_frontend", "tier": 1, "status": "active"},
+    {"id": "javascriptcore_bytecode", "name": "JavaScriptCore Bytecode", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "jelly", "name": "Jelly", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "jenkins_pipeline", "name": "Jenkins Pipeline (Groovy DSL)", "category": "ci_cd_config", "tier": 2, "status": "active"},
+    {"id": "jetpack_compose", "name": "Jetpack Compose", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "jinja2", "name": "Jinja2 / Nunjucks", "category": "web_frontend", "tier": 2, "status": "active"},
+    {"id": "joss", "name": "JOSS", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "jot", "name": "Jot", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "jovial", "name": "JOVIAL", "category": "general_purpose", "tier": 4, "status": "legacy"},
+    {"id": "joy", "name": "Joy", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "json", "name": "JSON", "category": "config_data_format", "tier": 1, "status": "active"},
+    {"id": "jsonnet", "name": "Jsonnet", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "jujutsu_config", "name": "Jujutsu Config DSL", "category": "config_data_format", "tier": 4, "status": "active"},
+    {"id": "julia", "name": "Julia", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "jvm_bytecode", "name": "JVM Bytecode", "category": "assembly", "tier": 2, "status": "active"}
+  ]
+}

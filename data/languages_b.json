@@ -1,0 +1,32 @@
+{
+  "languages": [
+    {"id": "b_language", "name": "B Language", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "b_method", "name": "B-Method", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "ballerina", "name": "Ballerina", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "baml", "name": "BAML", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "bash", "name": "Bash / Shell", "category": "scripting", "tier": 1, "status": "active"},
+    {"id": "bazel_starlark", "name": "Bazel Starlark", "category": "ci_cd_config", "tier": 2, "status": "active"},
+    {"id": "bcpl", "name": "BCPL", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "beam_bytecode", "name": "Beam Bytecode", "category": "assembly", "tier": 3, "status": "active"},
+    {"id": "beef", "name": "Beef", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "befunge", "name": "Befunge", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "bicep", "name": "Bicep", "category": "config_data_format", "tier": 2, "status": "active"},
+    {"id": "bicep_dsl", "name": "Bicep DSL", "category": "config_data_format", "tier": 2, "status": "active"},
+    {"id": "binary_lambda_calculus", "name": "Binary Lambda Calculus", "category": "esoteric", "tier": 4, "status": "niche"},
+    {"id": "binary_ninja_api", "name": "Binary Ninja API", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "bind9_zone", "name": "Bind9 Zone Configuration", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "bison", "name": "Bison", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "bitbucket_pipelines", "name": "Bitbucket Pipelines YAML", "category": "ci_cd_config", "tier": 2, "status": "active"},
+    {"id": "bitcoin_script", "name": "Bitcoin Script", "category": "blockchain", "tier": 3, "status": "active"},
+    {"id": "blackbird", "name": "Blackbird", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "bliss", "name": "BLISS", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "bluespec_systemverilog", "name": "Bluespec SystemVerilog", "category": "hardware_description", "tier": 4, "status": "niche"},
+    {"id": "bnf", "name": "BNF", "category": "markup_doc", "tier": 4, "status": "active"},
+    {"id": "bora", "name": "Bora", "category": "scripting", "tier": 4, "status": "niche"},
+    {"id": "botpress_nlu", "name": "Botpress NLU Engine Logic", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "bpf", "name": "BPF", "category": "assembly", "tier": 3, "status": "active"},
+    {"id": "brainfuck", "name": "Brainfuck", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "bro_zeek", "name": "Bro/Zeek Script", "category": "scripting", "tier": 4, "status": "active"},
+    {"id": "bugs", "name": "BUGS", "category": "general_purpose", "tier": 4, "status": "niche"}
+  ]
+}

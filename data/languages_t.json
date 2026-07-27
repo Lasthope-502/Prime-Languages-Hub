@@ -1,0 +1,27 @@
+{
+  "languages": [
+    {"id": "t_sql", "name": "T-SQL", "category": "database_query", "tier": 2, "status": "active"},
+    {"id": "tango_controls", "name": "Tango Controls", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "tcl", "name": "Tcl", "category": "scripting", "tier": 3, "status": "active"},
+    {"id": "tcsh", "name": "TCSH", "category": "scripting", "tier": 4, "status": "active"},
+    {"id": "tekton_pipeline", "name": "Tekton Pipeline YAML", "category": "ci_cd_config", "tier": 3, "status": "active"},
+    {"id": "temporal_workflow", "name": "Temporal Workflow Spec", "category": "ci_cd_config", "tier": 3, "status": "active"},
+    {"id": "terraform_hcl", "name": "Terraform HCL", "category": "config_data_format", "tier": 1, "status": "active"},
+    {"id": "tex", "name": "TeX", "category": "markup_doc", "tier": 3, "status": "active"},
+    {"id": "thue", "name": "Thue", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "tidalcycles", "name": "TidalCycles", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "tket", "name": "Tket", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "tla_plus", "name": "TLA+", "category": "theorem_prover", "tier": 3, "status": "active"},
+    {"id": "toml", "name": "TOML", "category": "config_data_format", "tier": 1, "status": "active"},
+    {"id": "travis_ci", "name": "Travis CI YAML", "category": "ci_cd_config", "tier": 3, "status": "active"},
+    {"id": "tree_sitter_grammar", "name": "Tree-sitter Grammar DSL", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "trumpscript", "name": "TrumpScript", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "turbo_pascal", "name": "Turbo Pascal", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "turing", "name": "Turing", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "turingol", "name": "Turingol", "category": "esoteric", "tier": 4, "status": "niche"},
+    {"id": "twelf", "name": "Twelf", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "twine_twee", "name": "Twine (Twee)", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "typescript", "name": "TypeScript", "category": "web_frontend", "tier": 1, "status": "active"},
+    {"id": "typst", "name": "Typst", "category": "markup_doc", "tier": 3, "status": "active"}
+  ]
+}

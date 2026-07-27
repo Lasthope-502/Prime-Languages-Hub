@@ -1,0 +1,33 @@
+{
+  "languages": [
+    {"id": "fsharp", "name": "F#", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "fstar", "name": "F* (F-Star)", "category": "theorem_prover", "tier": 4, "status": "active"},
+    {"id": "factor", "name": "Factor", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "false_lang", "name": "False", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "faust", "name": "Faust", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "fbd", "name": "FBD", "category": "hardware_description", "tier": 4, "status": "active"},
+    {"id": "fe", "name": "Fe", "category": "blockchain", "tier": 4, "status": "niche"},
+    {"id": "felix", "name": "Felix", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "fhir", "name": "FHIR", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "fir", "name": "FIR", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "fish_shell", "name": "Fish", "category": "scripting", "tier": 3, "status": "active"},
+    {"id": "fix_protocol", "name": "FIX Protocol Language", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "fixpoint_dsl", "name": "Fixpoint DSL", "category": "config_data_format", "tier": 4, "status": "active"},
+    {"id": "flat_assembler", "name": "Flat Assembler", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "flatbuffers", "name": "FlatBuffers", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "flex", "name": "Flex", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "flipjump", "name": "Flipjump", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "flix", "name": "Flix", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "flow_matic", "name": "FLOW-MATIC", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "flutter_dart", "name": "Flutter (Dart)", "category": "general_purpose", "tier": 1, "status": "active"},
+    {"id": "flux", "name": "Flux", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "forest_rigetti", "name": "Forest (Rigetti)", "category": "quantum", "tier": 4, "status": "niche"},
+    {"id": "forth", "name": "Forth", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "fortran", "name": "FORTRAN", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "fortress", "name": "Fortress", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "foxpro", "name": "FoxPro", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "fpml", "name": "FpML", "category": "config_data_format", "tier": 4, "status": "active"},
+    {"id": "fractran", "name": "Fractran", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "frida", "name": "Frida", "category": "scripting", "tier": 3, "status": "active"}
+  ]
+}

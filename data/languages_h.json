@@ -1,0 +1,23 @@
+{
+  "languages": [
+    {"id": "hack", "name": "Hack", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "haifu", "name": "Haifu", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "handel_c", "name": "Handel-C", "category": "hardware_description", "tier": 4, "status": "niche"},
+    {"id": "happy", "name": "Happy", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "haproxy_config", "name": "HAProxy Configuration Script", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "haskell", "name": "Haskell", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "haystack_pipeline", "name": "Haystack Pipeline DSL", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "hiveql", "name": "HiveQL", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "hl7", "name": "HL7", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "hlsl", "name": "HLSL", "category": "shader", "tier": 2, "status": "active"},
+    {"id": "hol_light", "name": "HOL Light", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "hol4", "name": "HOL4", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "holyc", "name": "HolyC", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "hsail", "name": "HSAIL", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "html_css", "name": "HTML/CSS", "category": "web_frontend", "tier": 1, "status": "active"},
+    {"id": "html5", "name": "HTML5", "category": "web_frontend", "tier": 1, "status": "active"},
+    {"id": "htmx", "name": "HTMX Directives", "category": "web_frontend", "tier": 2, "status": "active"},
+    {"id": "huff", "name": "Huff", "category": "blockchain", "tier": 4, "status": "active"},
+    {"id": "hy", "name": "Hy", "category": "general_purpose", "tier": 4, "status": "niche"}
+  ]
+}

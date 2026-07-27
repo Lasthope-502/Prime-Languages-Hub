@@ -1,0 +1,32 @@
+{
+  "languages": [
+    {"id": "g_code", "name": "G-Code", "category": "hardware_description", "tier": 2, "status": "active"},
+    {"id": "gambas", "name": "Gambas", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "gap", "name": "GAP", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "gas_macro", "name": "Gas Macro Language", "category": "assembly", "tier": 4, "status": "active"},
+    {"id": "gauss", "name": "Gauss", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "gdscript", "name": "GDScript", "category": "scripting", "tier": 2, "status": "active"},
+    {"id": "geojson", "name": "GeoJSON", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "ghidra_macro", "name": "Ghidra Macro Language", "category": "scripting", "tier": 3, "status": "active"},
+    {"id": "github_actions", "name": "GitHub Actions Workflow YAML", "category": "ci_cd_config", "tier": 1, "status": "active"},
+    {"id": "gitlab_ci", "name": "GitLab CI/CD Pipeline Schema", "category": "ci_cd_config", "tier": 1, "status": "active"},
+    {"id": "gleam", "name": "Gleam", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "glsl", "name": "GLSL", "category": "shader", "tier": 2, "status": "active"},
+    {"id": "gml", "name": "GML", "category": "scripting", "tier": 3, "status": "active"},
+    {"id": "go", "name": "Go (Golang)", "category": "general_purpose", "tier": 1, "status": "active"},
+    {"id": "golfscript", "name": "GolfScript", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "gospel", "name": "Gospel", "category": "theorem_prover", "tier": 4, "status": "niche"},
+    {"id": "graalvm_substrate_ir", "name": "GraalVM Substrate IR", "category": "assembly", "tier": 4, "status": "niche"},
+    {"id": "gradle_groovy", "name": "Gradle Groovy DSL", "category": "ci_cd_config", "tier": 2, "status": "active"},
+    {"id": "gradle_kotlin", "name": "Gradle Kotlin DSL", "category": "ci_cd_config", "tier": 2, "status": "active"},
+    {"id": "grain", "name": "Grain", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "granule", "name": "Granule", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "graphql", "name": "GraphQL", "category": "database_query", "tier": 1, "status": "active"},
+    {"id": "graphql_schema", "name": "GraphQL Schema Language", "category": "config_data_format", "tier": 2, "status": "active"},
+    {"id": "gremlin", "name": "Gremlin", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "groovy", "name": "Groovy", "category": "jvm_based", "tier": 2, "status": "active"},
+    {"id": "guidance", "name": "Guidance", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "guix_scheme", "name": "Guix Scheme", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "gw_basic", "name": "GW-BASIC", "category": "general_purpose", "tier": 4, "status": "dead"}
+  ]
+}

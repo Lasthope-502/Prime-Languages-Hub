@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Compiled engine binaries
+engines/cpp_engine/engine_server
+engines/go_engine/engine_server
+engines/rust_engine/target/
+engines/java_engine/*.class
+engines/kotlin_engine/*.jar
+engines/csharp_engine/*.exe
+engines/csharp_engine/bin/
+engines/csharp_engine/obj/
+
+# Logs
+*.log
+/tmp/prime_hub_daemon.log
+
+# Session files
+~/.prime_hub_session.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db

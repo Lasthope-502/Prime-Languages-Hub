@@ -1,0 +1,27 @@
+{
+  "languages": [
+    {"id": "r_lang", "name": "R", "category": "general_purpose", "tier": 1, "status": "active"},
+    {"id": "racket", "name": "Racket", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "rake", "name": "Rake", "category": "ci_cd_config", "tier": 3, "status": "active"},
+    {"id": "raku_perl6", "name": "Raku (Perl 6)", "category": "scripting", "tier": 4, "status": "active"},
+    {"id": "rasa_nlu_domain", "name": "Rasa NLU Domain DSL", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "react_native", "name": "React Native (JS)", "category": "web_frontend", "tier": 1, "status": "active"},
+    {"id": "reasonml", "name": "ReasonML", "category": "web_frontend", "tier": 4, "status": "active"},
+    {"id": "rebol", "name": "REBOL", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "red_lang", "name": "Red", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "rego_opa", "name": "Rego (OPA)", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "rendermanshading", "name": "RenderMan Shading Language", "category": "shader", "tier": 4, "status": "niche"},
+    {"id": "rescript", "name": "ReScript", "category": "web_frontend", "tier": 3, "status": "active"},
+    {"id": "restructuredtext", "name": "reStructuredText (RST)", "category": "markup_doc", "tier": 3, "status": "active"},
+    {"id": "rexx", "name": "Rexx", "category": "scripting", "tier": 4, "status": "legacy"},
+    {"id": "ride_waves", "name": "Ride", "category": "blockchain", "tier": 4, "status": "active"},
+    {"id": "riscv_assembly", "name": "RISC-V Assembly", "category": "assembly", "tier": 2, "status": "active"},
+    {"id": "rivescript", "name": "RiveScript", "category": "config_data_format", "tier": 4, "status": "active"},
+    {"id": "roc", "name": "Roc", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "rpc_protobuf", "name": "RPC (Protobuf)", "category": "config_data_format", "tier": 2, "status": "active"},
+    {"id": "rpl_hp", "name": "RPL", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "ruby", "name": "Ruby", "category": "general_purpose", "tier": 1, "status": "active"},
+    {"id": "ruby_yarv_bytecode", "name": "Ruby YARV Bytecode", "category": "assembly", "tier": 3, "status": "active"},
+    {"id": "rust", "name": "Rust", "category": "general_purpose", "tier": 1, "status": "active"}
+  ]
+}

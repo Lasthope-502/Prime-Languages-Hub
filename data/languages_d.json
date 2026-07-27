@@ -1,0 +1,20 @@
+{
+  "languages": [
+    {"id": "d_language", "name": "D", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "dalvik_smali", "name": "Dalvik Bytecode (Smali)", "category": "assembly", "tier": 3, "status": "active"},
+    {"id": "dalvik_dex", "name": "Dalvik Executable (DEX)", "category": "assembly", "tier": 3, "status": "active"},
+    {"id": "dart", "name": "Dart", "category": "general_purpose", "tier": 1, "status": "active"},
+    {"id": "datalog", "name": "Datalog", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "dbase", "name": "dBase", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "deadfish", "name": "Deadfish", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "decaf", "name": "Decaf", "category": "scripting", "tier": 4, "status": "niche"},
+    {"id": "dhall", "name": "Dhall", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "dialogflow_cx", "name": "Dialogflow CX Flow Language", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "dicom_sr", "name": "DICOM Structured Reporting", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "dockerfile", "name": "Dockerfile", "category": "config_data_format", "tier": 1, "status": "active"},
+    {"id": "drone_ci", "name": "Drone CI YAML", "category": "ci_cd_config", "tier": 3, "status": "active"},
+    {"id": "dspy", "name": "DSPy", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "dual_brainfuck", "name": "Dual-Brainfuck", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "dxil", "name": "DXIL", "category": "shader", "tier": 4, "status": "niche"}
+  ]
+}

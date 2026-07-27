@@ -1,0 +1,9 @@
+{
+  "languages": [
+    {"id": "x10", "name": "X10", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "xaml", "name": "XAML", "category": "web_frontend", "tier": 2, "status": "active"},
+    {"id": "xml", "name": "XML", "category": "config_data_format", "tier": 1, "status": "active"},
+    {"id": "xquery", "name": "XQuery", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "xslt", "name": "XSLT", "category": "config_data_format", "tier": 3, "status": "active"}
+  ]
+}

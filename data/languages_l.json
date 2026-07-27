@@ -1,0 +1,32 @@
+{
+  "languages": [
+    {"id": "labview_g", "name": "LabVIEW (G Code)", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "ladder_logic", "name": "Ladder Logic", "category": "hardware_description", "tier": 3, "status": "active"},
+    {"id": "lalrpop", "name": "LALRPOP", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "langchain_lcel", "name": "LangChain (LCEL)", "category": "config_data_format", "tier": 2, "status": "active"},
+    {"id": "latex", "name": "LaTeX", "category": "markup_doc", "tier": 2, "status": "active"},
+    {"id": "lazarus_pascal", "name": "Lazarus (Pascal)", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "lazy_k", "name": "Lazy K", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "lcf", "name": "Lcf", "category": "theorem_prover", "tier": 4, "status": "dead"},
+    {"id": "lean", "name": "Lean", "category": "theorem_prover", "tier": 3, "status": "active"},
+    {"id": "lego_proof", "name": "LEGO", "category": "theorem_prover", "tier": 4, "status": "dead"},
+    {"id": "leo", "name": "Leo", "category": "blockchain", "tier": 3, "status": "active"},
+    {"id": "less", "name": "Less", "category": "web_frontend", "tier": 3, "status": "active"},
+    {"id": "lex", "name": "Lex", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "ligo", "name": "Ligo", "category": "blockchain", "tier": 3, "status": "active"},
+    {"id": "lilypond", "name": "LilyPond", "category": "general_purpose", "tier": 4, "status": "niche"},
+    {"id": "linq", "name": "LINQ", "category": "database_query", "tier": 2, "status": "active"},
+    {"id": "lisp_scheme", "name": "Lisp / Scheme", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "lisp15", "name": "LISP 1.5", "category": "general_purpose", "tier": 4, "status": "dead"},
+    {"id": "llamaindex_pipeline", "name": "LlamaIndex Query Pipeline", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "llvm_ir", "name": "LLVM IR", "category": "assembly", "tier": 2, "status": "active"},
+    {"id": "lmql", "name": "LMQL", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "logql", "name": "LogQL", "category": "database_query", "tier": 3, "status": "active"},
+    {"id": "lolcode", "name": "LOLCODE", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "lsl", "name": "LSL", "category": "scripting", "tier": 4, "status": "niche"},
+    {"id": "lua", "name": "Lua", "category": "scripting", "tier": 1, "status": "active"},
+    {"id": "lua_bytecode", "name": "Lua Bytecode", "category": "assembly", "tier": 3, "status": "active"},
+    {"id": "luau", "name": "LuaU", "category": "scripting", "tier": 2, "status": "active"},
+    {"id": "luigi_task_pipeline", "name": "Luigi Task Pipeline", "category": "config_data_format", "tier": 3, "status": "active"}
+  ]
+}

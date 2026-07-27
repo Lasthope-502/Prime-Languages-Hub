@@ -1,0 +1,15 @@
+{
+  "languages": [
+    {"id": "wasm_bytecode", "name": "Wasm Bytecode", "category": "assembly", "tier": 2, "status": "active"},
+    {"id": "webassembly_wat", "name": "WebAssembly (WAT)", "category": "general_purpose", "tier": 2, "status": "active"},
+    {"id": "webidl", "name": "WebIDL", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "wgsl", "name": "WGSL", "category": "shader", "tier": 2, "status": "active"},
+    {"id": "whenever_esolang", "name": "Whenever", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "whitespace", "name": "Whitespace", "category": "esoteric", "tier": 4, "status": "joke"},
+    {"id": "wikitext", "name": "Wikitext", "category": "markup_doc", "tier": 3, "status": "active"},
+    {"id": "wireguard_config", "name": "WireGuard Configuration", "category": "config_data_format", "tier": 3, "status": "active"},
+    {"id": "wolfram_language", "name": "Wolfram Language (Mathematica)", "category": "general_purpose", "tier": 3, "status": "active"},
+    {"id": "woodpecker_ci", "name": "Woodpecker CI Schema", "category": "ci_cd_config", "tier": 4, "status": "active"},
+    {"id": "wren", "name": "Wren", "category": "scripting", "tier": 4, "status": "niche"}
+  ]
+}
